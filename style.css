@@ -1,0 +1,26 @@
+h1{
+    text-align: center;color: rgb(243, 6, 6);
+    width: 900px;
+    height: 80px;
+    background-color: azure;
+    margin-left: 170px;
+    padding-top: 20px;
+
+
+}
+p{
+    text-align: center
+    ;
+}
+h2{
+    text-align: center;
+}
+h6{
+     text-align: center; color: rgb(14, 31, 124);
+}
+p{
+    text-align: center;
+}
+h5{
+    color: rgb(17, 3, 65);
+}
